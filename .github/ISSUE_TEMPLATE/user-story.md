@@ -1,6 +1,6 @@
 ---
 name: User Story
-about: A brief description of the need and business value
+about: This template is for creating user stories
 title: ''
 labels: ''
 assignees: ''
